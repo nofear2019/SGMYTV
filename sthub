@@ -111,7 +111,7 @@ https://ucdn.starhubgo.com/bpk-tv/BloombergTelevisionHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f3ebd4b085804891988897c19ec04d9f:7fb1cd86d4fcf86942e0b0cab62c82db
 https://ucdn.starhubgo.com/bpk-tv/BoomerangHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" channel-number="17" group-title="starhub",CCM
+#EXTINF:-1 tvg-id="" channel-number="17" group-title="starhub" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042655872956_65.png",CCM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
