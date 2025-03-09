@@ -195,14 +195,14 @@ https://ucdn.starhubgo.com/bpk-tv/CbeebiesHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=3144abd890c9482b924a8f64f71f5da9:01c27f7e51ff7f4a396ee9d951011077
 https://ucdn.starhubgo.com/bpk-tv/CelestialMoviesHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" channel-number="29" group-title="starhub",Channel 5 HD
+#EXTINF:-1 tvg-id="" channel-number="29" group-title="starhub" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b152e2ae339c477aa4821eafb9c83c8c:e862ceb5df4fb9efcb013999e200b5bb
 https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CH5_DASH/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" channel-number="30" group-title="starhub",Channel 8 HD
+#EXTINF:-1 tvg-id="" channel-number="30" group-title="starhub" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -216,7 +216,7 @@ https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CH8_DASH/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=7cd1bb6763c04f26970ebce1a2adbb69:b535f8e6892e06e28525b23563529409
 https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CNA_DASH/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" channel-number="32" group-title="starhub",Channel U HD
+#EXTINF:-1 tvg-id="" channel-number="32" group-title="starhub" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
