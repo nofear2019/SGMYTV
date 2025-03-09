@@ -1,9 +1,3 @@
-#EXTINF:-1 tvg-id="" channel-number="1" group-title="starhub", tvN HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=273bdcd5a28e4d028775576e81366c36:12dab252a38ae2dfb08aff25819b6ef9
-https://ucdn.starhubgo.com/bpk-tv/tvNHD/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="" channel-number="2" group-title="starhub",ABC Australia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -194,7 +188,7 @@ https://ucdn.starhubgo.com/bpk-tv/BoomerangHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c44621930bf54bf0b771b610646e9005:8cafe783be0062021523cb35be913858
 https://ucdn.starhubgo.com/bpk-tv/CbeebiesHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" channel-number="28" group-title="starhub",Celestial Movies HD
+#EXTINF:-1 tvg-id="" channel-number="28" group-title="starhub" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042102934903_31.png",Celestial Movies HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -257,7 +251,7 @@ https://ucdn.starhubgo.com/bpk-tv/CitraEntertainment/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=7b212ef60b034dd7814385662c221d41:1829193d346d19ad482512a43c7fa6dc
 https://ucdn.starhubgo.com/bpk-tv/CrimeplusInvestigationHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" channel-number="36" group-title="starhub",Crime + Investigation HD
+#EXTINF:-1 tvg-id="" channel-number="36" group-title="starhub",Curiorsity
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -809,3 +803,10 @@ https://pnowlive-a.akamaized.net/live/nowhd/dash/nowhd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036dd75d8634944bc7b737d66326495:c4af06bead7be046812cb50f079669d2
 https://linear314-it-dash1-prd-msp1.cdn13.skycdp.com/016a/31258/FHD/cartoonnetwork/master_stereo.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="1" group-title="starhub", tvN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=273bdcd5a28e4d028775576e81366c36:12dab252a38ae2dfb08aff25819b6ef9
+https://ucdn.starhubgo.com/bpk-tv/tvNHD/output/manifest.mpd
