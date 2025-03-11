@@ -581,13 +581,6 @@ https://ucdn.starhubgo.com/bpk-tv/SonyMAX/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=11638fd3d4294a00a06a96752386c974:1631bf2a7e1c01aa9be0777798cbacbc
 https://ucdn.starhubgo.com/bpk-tv/SonyEntertainmentTelevision/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",TLC HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
-https://ucdn.starhubgo.com/bpk-tv/TLCHD/output/manifest.mpd
-
 #EXTINF:-1 tvg-id="" group-title="国际民族",TV5MONDE HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -602,7 +595,7 @@ https://ucdn.starhubgo.com/bpk-tv/TV5MONDEAsieHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c664bbf4728442b0bb914b9bd2280240:9a97525d9864732487668683cdc30ff0
 https://ucdn.starhubgo.com/bpk-tv/TVBJadeHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",TVB News Channel HD
+#EXTINF:-1 tvg-id="" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVB News Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -630,7 +623,7 @@ https://ucdn.starhubgo.com/bpk-tv/TVBSAsia/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=db1ba248b9e442df918b9a536cda8886:0ab81d2fa6281223a98528c2359be10e
 https://ucdn.starhubgo.com/bpk-tv/TVBSNews/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png",Travel xp
+#EXTINF:-1 tvg-id="" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png",Travelxp HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -805,14 +798,14 @@ https://ucdn.starhubgo.com/bpk-tv/HubPremier11/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f8300540be72f09691108e480a919fbf:09cf6e0deac4734ebd30533c347e9165
 https://pnowlive-a.akamaized.net/live/nowhd/dash/nowhd.mpd
 
-#EXTINF:-1 tvg-id="" group-title="体育", spotv
+#EXTINF:-1 tvg-id="" group-title="体育",spotv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9b08ce3328f467dac1c6ff03b4cf358:499e104ca0c44ebc78d601094001cd67
 https://ucdn.starhubgo.com/bpk-tv/SPOTVNEW/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="体育", spotv2
+#EXTINF:-1 tvg-id="" group-title="体育",spotv2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
