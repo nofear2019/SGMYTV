@@ -339,7 +339,7 @@ https://ucdn.starhubgo.com/bpk-tv/HBOHD/output/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d0050d574d447c4b8f0f75721e71661:6775e4ed9362b91b2119b68e4cc9e342
+#KODIPROP:inputstream.adaptive.license_key=7b3087019c53476da5bf58ff3092f49b:1a6e037e898efb04cd33419486a096fe
 https://ucdn.starhubgo.com/bpk-tv/HBOHitsHD/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="" channel-number="50" group-title="starhub",HBO Signature HD
@@ -353,7 +353,7 @@ https://ucdn.starhubgo.com/bpk-tv/HBOSignatureHD/output/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2e2b34413c04d3e8f1fc18c1f020711:8f7c2d4d6f94e3fc0439ae25b5ce4b7f
+#KODIPROP:inputstream.adaptive.license_key=c1ac1cd0128240e18b68f337fe871b59:372c1435914f835639e2595c0670b0ed
 https://ucdn.starhubgo.com/bpk-tv/HGTVHD/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="" channel-number="52" group-title="starhub",HITS HD
@@ -369,6 +369,13 @@ https://ucdn.starhubgo.com/bpk-tv/HITSHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7665df17620b4bffadee0b982ef841f8:c81a61f154ef0ceb60644b154354d04e
 https://ucdn.starhubgo.com/bpk-tv/HitsMoviesHD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" channel-number="54" group-title="starhub",Hub E City HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8446bf3c61cb46e48efeb9303c98f651:274c6891982e220669ef82c1f6c1bde7
+https://ucdn.starhubgo.com/bpk-tv/HubECityHD825/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="" channel-number="54" group-title="starhub",Hub E City HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
