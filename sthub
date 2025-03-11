@@ -833,13 +833,6 @@ https://ucdn.starhubgo.com/bpk-tv/HubPremier11/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f8300540be72f09691108e480a919fbf:09cf6e0deac4734ebd30533c347e9165
 https://pnowlive-a.akamaized.net/live/nowhd/dash/nowhd.mpd
 
-#EXTINF:-1 tvg-id="" group-title="未分类", tvN HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=273bdcd5a28e4d028775576e81366c36:12dab252a38ae2dfb08aff25819b6ef9
-https://ucdn.starhubgo.com/bpk-tv/tvNHD/output/manifest.mpd
-
 #EXTINF:-1 tvg-id="" group-title="未分类", spotv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -855,7 +848,7 @@ https://ucdn.starhubgo.com/bpk-tv/SPOTVNEW/output/manifest.mpd
 https://ucdn.starhubgo.com/bpk-tv/SPOTV2NEW/output/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="" group-title="singtel", 东森亚洲
+#EXTINF:-1 tvg-id="" group-title="singtel",东森亚洲
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
