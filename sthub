@@ -6,14 +6,14 @@
 #KODIPROP:inputstream.adaptive.license_key=d05e49ef06764933b441934b0df7afd7:28f08dc6b642be5bf24651671f73e11b
 https://ucdn.starhubgo.com/bpk-tv/ABCAustralia/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",ADITHYA TV
+#EXTINF:-1 tvg-id="" group-title="未分类",ADITHYA TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cba7be6fc9a4164aaccadd573b8616a:5931b2b6d4bb346bb54dceb451dc887f
 https://ucdn.starhubgo.com/bpk-tv/ADITHYATV/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",ANC
+#EXTINF:-1 tvg-id="" group-title="未分类",ANC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -34,35 +34,35 @@ https://ucdn.starhubgo.com/bpk-tv/AXNHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
 https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",Arirang TV HD
+#EXTINF:-1 tvg-id="" group-title="未分类" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",Arirang TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f21120153ab14180af9e3cc521ef3e0c:20cbfbe7200a7c173499247833a35d4b
 https://ucdn.starhubgo.com/bpk-tv/ArirangTV/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Asianet
+#EXTINF:-1 tvg-id="" group-title="未分类",Asianet
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=32233523503442728319f13e66eabe1d:9176ac4e76ce299db6e5d86dd7efac88
 https://ucdn.starhubgo.com/bpk-tv/Asianet/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Asianet Movies
+#EXTINF:-1 tvg-id="" group-title="未分类",Asianet Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=edd61b87c5444c63a5f503e6f7cf3de3:e72283be311aa6c5175be86862d96eb3
 https://ucdn.starhubgo.com/bpk-tv/AsianetMov/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Astro Sensasi HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Astro Sensasi HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
 https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Astro Warna HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Astro Warna HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -111,7 +111,7 @@ https://ucdn.starhubgo.com/bpk-tv/BloombergTelevisionHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=1bf777a86b244608948e5d4c272ade19:a7c600a766773809cb56dc1791831247
 https://ucdn.starhubgo.com/bpk-tv/CCM/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="中文亚洲文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png",CCTV-4
+#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png",CCTV-4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -139,14 +139,14 @@ https://ucdn.starhubgo.com/bpk-tv/CNBCHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=88dccf3f4ba540348a9e8d159d448484:5f87122f3582d54f44f7f8915e7f065c
 https://ucdn.starhubgo.com/bpk-tv/CNNHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",COLORS
+#EXTINF:-1 tvg-id="" group-title="未分类",COLORS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c85f99a0dfc43ec97f31d1887d0bf15:7746516d0361659ca71d8a8457764f9e
 https://ucdn.starhubgo.com/bpk-tv/COLORS/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",COLORS Tamil HD
+#EXTINF:-1 tvg-id="" group-title="未分类",COLORS Tamil HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -188,28 +188,28 @@ https://ucdn.starhubgo.com/bpk-tv/CbeebiesHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=3144abd890c9482b924a8f64f71f5da9:01c27f7e51ff7f4a396ee9d951011077
 https://ucdn.starhubgo.com/bpk-tv/CelestialMoviesHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 HD
+#EXTINF:-1 tvg-id="" group-title="未分类" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b152e2ae339c477aa4821eafb9c83c8c:e862ceb5df4fb9efcb013999e200b5bb
 https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CH5_DASH/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 HD
+#EXTINF:-1 tvg-id="" group-title="未分类" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab098604d411c9685dfd4c8ba5d96:5a6710bd5212d46a48083ffcb871cd20
 https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CH8_DASH/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub"tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia HD
+#EXTINF:-1 tvg-id="" group-title="未分类"tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7cd1bb6763c04f26970ebce1a2adbb69:b535f8e6892e06e28525b23563529409
 https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CNA_DASH/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U HD
+#EXTINF:-1 tvg-id="" group-title="未分类" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -230,7 +230,7 @@ https://ucdn.starhubgo.com/bpk-tv/CinemaOne/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d4c9462406784dc1ae136960ce519d9f:088f3518471c22767c0cf0e4372bccac
 https://ucdn.starhubgo.com/bpk-tv/CinemaxHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Citra Entertainment
+#EXTINF:-1 tvg-id="" group-title="未分类",Citra Entertainment
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -244,7 +244,7 @@ https://ucdn.starhubgo.com/bpk-tv/CitraEntertainment/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=2cc82e4d16944e3680ecd7f798ad934a:efd9b267c84effe30cf80dd8e9f9d499
 https://ucdn.starhubgo.com/bpk-tv/CrimeplusInvestigationHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",DW English HD
+#EXTINF:-1 tvg-id="" group-title="未分类",DW English HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -265,7 +265,7 @@ https://ucdn.starhubgo.com/bpk-tv/DiscoveryCh/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=cc39dc63f3e84bceb6c5a59b058a5349:d0b825d0aeb64f1d4e4dba32ef2d907c
 https://ucdn.starhubgo.com/bpk-tv/DragonTV/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",DreamWorks Channel HD
+#EXTINF:-1 tvg-id="" group-title="未分类",DreamWorks Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -286,7 +286,7 @@ https://ucdn.starhubgo.com/bpk-tv/ETTVHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a949912200ee45efb2f30d3260eb4eb1:d9ea6196758f70ad84123906b5fa218c
 https://ucdn.starhubgo.com/bpk-tv/Euronews/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",FIGHT SPORTS HD
+#EXTINF:-1 tvg-id="" group-title="未分类",FIGHT SPORTS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -370,7 +370,7 @@ https://ucdn.starhubgo.com/bpk-tv/HitsMoviesHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=aaefa438407c4e39be6944fb82b952df:9fa8872f2a8d4d9395c40802527f84ac
 https://ucdn.starhubgo.com/bpk-tv/HistoryHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="中文亚洲文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/825_1920x1080_HTV.png",Hub E City HD 825
+#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/825_1920x1080_HTV.png",Hub E City HD 825
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -384,35 +384,35 @@ https://ucdn.starhubgo.com/bpk-tv/HubECityHD825/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
 https://ucdn.starhubgo.com/bpk-tv/HubECityHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Hub Sports 1 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Hub Sports 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
 https://ucdn.starhubgo.com/bpk-tv/HubSports1HDnew1/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Hub Sports 2 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Hub Sports 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
 42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Hub Sports 3 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Hub Sports 3 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
 https://ucdn.starhubgo.com/bpk-tv/HubSports3HDNEW/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Hub Sports 4 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Hub Sports 4 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
 https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Hub Sports 5 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Hub Sports 5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -426,7 +426,7 @@ https://ucdn.starhubgo.com/bpk-tv/HubSports5HD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d9712e0043af4a4e9e6b50fc304581c7:021e2862340e8956d8ce548af7ef0839
 https://ucdn.starhubgo.com/bpk-tv/HubVVDramaHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Jia Le Channel HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Jia Le Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -440,14 +440,14 @@ https://ucdn.starhubgo.com/bpk-tv/JiaLeChannelHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ebda46a0c57e4328bb81200709446b41:48f03c03ac2f800aea4b8b1a437bb083
 https://ucdn.starhubgo.com/bpk-tv/KBSWorldHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",KTV HD
+#EXTINF:-1 tvg-id="" group-title="未分类",KTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c42ff2d89b0343eb8209aa01ec993d88:1475d4140f207ae15bfd8e6b83d02a35
 https://ucdn.starhubgo.com/bpk-tv/KTVHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",K+
+#EXTINF:-1 tvg-id="" group-title="未分类",K+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -461,14 +461,14 @@ https://ucdn.starhubgo.com/bpk-tv/KPlus/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=e5ae9e1d0b554bc4b8021295f14338a0:ea2edb22dd0f9dc530db7573f6480e9c
 https://ucdn.starhubgo.com/bpk-tv/LifetimeHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Love Nature HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Love Nature HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
 https://ucdn.starhubgo.com/bpk-tv/LoveNatureHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",MTV Asia HD
+#EXTINF:-1 tvg-id="" group-title="未分类",MTV Asia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -496,7 +496,7 @@ https://ucdn.starhubgo.com/bpk-tv/NickJr/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=7ffa616fd7c1427db5fd75982985b7f7:fcc74119ced123d8457d8ee3d0a95005
 https://ucdn.starhubgo.com/bpk-tv/NickelodeonHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Oh!K HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Oh!K HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -531,7 +531,7 @@ https://ucdn.starhubgo.com/bpk-tv/PINCHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=94472526cc92471493d46543faefadda:36658f2faa1f09f206a2f448ac653e2d
 https://ucdn.starhubgo.com/bpk-tv/Preview/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Rock Action
+#EXTINF:-1 tvg-id="" group-title="未分类",Rock Action
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -545,28 +545,28 @@ https://ucdn.starhubgo.com/bpk-tv/BlueAntActiontHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=05e817347131436ab754a7367ab7cbf4:d50056adfc6ee86e7dfa2ccf0b8b9872
 https://ucdn.starhubgo.com/bpk-tv/BlueAntEntertainmentHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Sensasi HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Sensasi HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
 https://ucdn.starhubgo.com/bpk-tv/Sensasi/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Smithsonian Channel HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Smithsonian Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
 https://ucdn.starhubgo.com/bpk-tv/SmithsonianChannel/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Sun Music
+#EXTINF:-1 tvg-id="" group-title="未分类",Sun Music
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed89bf895a514836bc3235042b1cba80:804a3b2bbc0e9b3ba4db96889349e81b
 https://ucdn.starhubgo.com/bpk-tv/SunMusic/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Sun TV HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Sun TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -588,35 +588,35 @@ https://ucdn.starhubgo.com/bpk-tv/SkyNewsHD/output/manifest.mpd
 https://ucdn.starhubgo.com/bpk-tv/SEAToday/output/manifest.mpd
 48276f9de9b84653ba243f74868a2048:e6d2d5b9ccc01d5fb606a084429a8bf7
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Suria HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Suria HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6347d18bc19a475194eb5651208254f7:8b85be95bf378e6fa552f5eca1f05d8b
 https://ucdn.starhubgo.com/bpk-tv/Mediacorp_Suria_DASH/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub", sony max
+#EXTINF:-1 tvg-id="" group-title="未分类", sony max
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9d97a893d1c42a3ab865f0ea5f85d87:fe1f21eda73955bf58f01cf5449cb289
 https://ucdn.starhubgo.com/bpk-tv/SonyMAX/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub", Sony Entertainment Television
+#EXTINF:-1 tvg-id="" group-title="未分类", Sony Entertainment Television
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11638fd3d4294a00a06a96752386c974:1631bf2a7e1c01aa9be0777798cbacbc
 https://ucdn.starhubgo.com/bpk-tv/SonyEntertainmentTelevision/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",TLC HD
+#EXTINF:-1 tvg-id="" group-title="未分类",TLC HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
 https://ucdn.starhubgo.com/bpk-tv/TLCHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",TV5MONDE HD
+#EXTINF:-1 tvg-id="" group-title="未分类",TV5MONDE HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -630,7 +630,7 @@ https://ucdn.starhubgo.com/bpk-tv/TV5MONDEAsieHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c664bbf4728442b0bb914b9bd2280240:9a97525d9864732487668683cdc30ff0
 https://ucdn.starhubgo.com/bpk-tv/TVBJadeHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",TVB News Channel HD
+#EXTINF:-1 tvg-id="" group-title="未分类",TVB News Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -665,189 +665,189 @@ https://ucdn.starhubgo.com/bpk-tv/TVBSNews/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f73a324d13e14b51ae6576655c2646c2:eb2aeda95806929f93f744a3c1137458
 https://ucdn.starhubgo.com/bpk-tv/TravelxpHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Vasantham HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Vasantham HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d04aa93a9a8e4ce48d63693906bf8cd1:79919df17415c998c57ce8a2257f476b
 https://ucdn.starhubgo.com/bpk-tv/Mediacorp_Vasantham_DASH/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Vijay TV HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Vijay TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c496a02d46f544579384af6834469cd7:c32bb1120a1e9acc6ffbbca374f0a899
 https://ucdn.starhubgo.com/bpk-tv/VijayTV/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Warner TV HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Warner TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
 https://ucdn.starhubgo.com/bpk-tv/WarnerTVHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Zee Tamil HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Zee Tamil HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47dde0640e614122a874b78be75ea286:e33fdb7f39f5322f14b82f4abdb192e2
 https://ucdn.starhubgo.com/bpk-tv/ZeeTamil/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Zee TV HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Zee TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=daa2d5016af54ce5933c9034d5c21ddf:4cb6857673fb8f3adb6c620d134b8607
 https://ucdn.starhubgo.com/bpk-tv/ZeeTV/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Zee Thirai
+#EXTINF:-1 tvg-id="" group-title="未分类",Zee Thirai
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c584a57a5edc44e1b9e58047019a6c95:14c86305c458b457a91affeffec3bcff
 https://ucdn.starhubgo.com/bpk-tv/ZeeThirai/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Zee Cinema
+#EXTINF:-1 tvg-id="" group-title="未分类",Zee Cinema
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b063c7afa634cd9b78852ccbb936fa2:5d5e5a474a56c88c63904446cdd3f123
 https://ucdn.starhubgo.com/bpk-tv/ZeeCinema/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",beIN Sports HD
+#EXTINF:-1 tvg-id="" group-title="未分类",beIN Sports HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
 https://ucdn.starhubgo.com/bpk-tv/BeINSportsHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",beIN Sports 2 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",beIN Sports 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
 https://ucdn.starhubgo.com/bpk-tv/beINSportsHD2/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",beIN Sports 3 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",beIN Sports 3 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b328f4b7bd4ac5966f8a7d434536b7:9354e572eaedf7b9481cbe30776ae781
 https://ucdn.starhubgo.com/bpk-tv/beINSports3NEW/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",beIN Sports 4 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",beIN Sports 4 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
 https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",beIN Sports 5 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",beIN Sports 5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
 https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Hub Premier 1 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Hub Premier 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
 https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Hub Premier 2 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Hub Premier 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
 https://ucdn.starhubgo.com/bpk-tv/HubPremier2_4K/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Hub Premier 3 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Hub Premier 3 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
 https://ucdn.starhubgo.com/bpk-tv/HubPremier3/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Hub Premier 4 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Hub Premier 4 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
 https://ucdn.starhubgo.com/bpk-tv/HubPremier4/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Hub Premier 5 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Hub Premier 5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
 https://ucdn.starhubgo.com/bpk-tv/HubPremier5/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Hub Premier 6 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Hub Premier 6 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd1e866cc4e4bb1a230dda645081865:edaf41fe7af1249eef03bfac6e9ab632
 https://ucdn.starhubgo.com/bpk-tv/HubPremier6/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Hub Premier 7 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Hub Premier 7 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec361b73771546b3b42aadbd847d4ad6:bcb5a85c2236d319aff588fe280e0a35
 https://ucdn.starhubgo.com/bpk-tv/HubPremier7/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Hub Premier 8 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Hub Premier 8 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
 https://ucdn.starhubgo.com/bpk-tv/HubPremier8/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Hub Premier 9 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Hub Premier 9 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e314720a4fc9414cb84862f3a4d0b072:a1bb6155792c5338280af6ac8cb8033d
 https://ucdn.starhubgo.com/bpk-tv/HubPremier9/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Hub Premier 10 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Hub Premier 10 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9f5144687374b62a006b26fd15d6842:9ae3c1fbe13286859d852799a1189db4
 https://ucdn.starhubgo.com/bpk-tv/HubPremier10/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",Hub Premier 11 HD
+#EXTINF:-1 tvg-id="" group-title="未分类",Hub Premier 11 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=75d04c230de440ec8efb0a45335522ab:c36eefb1f70a14919253cf68c9b442e4
 https://ucdn.starhubgo.com/bpk-tv/HubPremier11/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub",NOW HD
+#EXTINF:-1 tvg-id="" group-title="未分类",NOW HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8300540be72f09691108e480a919fbf:09cf6e0deac4734ebd30533c347e9165
 https://pnowlive-a.akamaized.net/live/nowhd/dash/nowhd.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub", tvN HD
+#EXTINF:-1 tvg-id="" group-title="未分类", tvN HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=273bdcd5a28e4d028775576e81366c36:12dab252a38ae2dfb08aff25819b6ef9
 https://ucdn.starhubgo.com/bpk-tv/tvNHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub", spotv
+#EXTINF:-1 tvg-id="" group-title="未分类", spotv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9b08ce3328f467dac1c6ff03b4cf358:499e104ca0c44ebc78d601094001cd67
 https://ucdn.starhubgo.com/bpk-tv/SPOTVNEW/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="starhub", spotv2
+#EXTINF:-1 tvg-id="" group-title="未分类", spotv2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
