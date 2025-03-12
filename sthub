@@ -1,3 +1,5 @@
+#EXTM3U 
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
