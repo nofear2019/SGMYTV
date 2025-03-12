@@ -34,7 +34,7 @@ https://ucdn.starhubgo.com/bpk-tv/AXNHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
 https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",Arirang TV HD
+#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",Arirang TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
