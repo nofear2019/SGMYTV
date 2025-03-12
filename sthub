@@ -1,14 +1,14 @@
 #EXTM3U 
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia HD
+#EXTINF:-1 tvg-id="ABC.Australia.sg" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d05e49ef06764933b441934b0df7afd7:28f08dc6b642be5bf24651671f73e11b
 https://ucdn.starhubgo.com/bpk-tv/ABCAustralia/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png",ADITHYA TV
+#EXTINF:-1 tvg-id="Adithya.TV.sg" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png",ADITHYA TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -22,14 +22,14 @@ https://ucdn.starhubgo.com/bpk-tv/ADITHYATV/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=5fb01414e3464af4a2683cf7847a2ab0:4faf90b7e72e099c871558754f23fa3a
 https://ucdn.starhubgo.com/bpk-tv/ANC/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="娱乐" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN HD
+#EXTINF:-1 tvg-id="AXN.(HD).sg" group-title="娱乐" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f45dc24e46048a0981d7a4bc7127177:4db68809e6795408417128abbb32dba0
 https://ucdn.starhubgo.com/bpk-tv/AXNHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="娱乐" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png",Animax HD
+#EXTINF:-1 tvg-id="Animax.(HD).sg" group-title="娱乐" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png",Animax HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -43,14 +43,14 @@ https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f21120153ab14180af9e3cc521ef3e0c:20cbfbe7200a7c173499247833a35d4b
 https://ucdn.starhubgo.com/bpk-tv/ArirangTV/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png",Asianet
+#EXTINF:-1 tvg-id="Asianet.sg" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png",Asianet
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=32233523503442728319f13e66eabe1d:9176ac4e76ce299db6e5d86dd7efac88
 https://ucdn.starhubgo.com/bpk-tv/Asianet/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png",Asianet Movies
+#EXTINF:-1 tvg-id="Asianet.Movies.sg" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png",Asianet Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -71,21 +71,21 @@ https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
 https://ucdn.starhubgo.com/bpk-tv/Astro_warna_new/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png",BBC Earth HD
+#EXTINF:-1 tvg-id="BBC.Earth.(HD).sg" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png",BBC Earth HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fad0942337db4c7e910cca2680cbae89:f48adcc739a34ac96a4848ad0bfba6cf
 https://ucdn.starhubgo.com/bpk-tv/BBCEarthHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png",BBC Lifestyle
+#EXTINF:-1 tvg-id="BBC.Lifestyle.(HD).sg" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png",BBC Lifestyle
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=06bbd3e5972746be9307aff0ca171ef1:63d0ed83314277f18961f29fd7e90e03
 https://ucdn.starhubgo.com/bpk-tv/BBCLifestyleHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/701_1920x1080_HTV.png",BBC World News HD
+#EXTINF:-1 tvg-id="BBC.News.sg" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/701_1920x1080_HTV.png",BBC World News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -99,133 +99,133 @@ https://ucdn.starhubgo.com/bpk-tv/BBCWorldNewsHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=621c8c018d304e4ab3676da441a90752:5012aa3d55c7f15af6e6bae0dd2e0908
 https://ucdn.starhubgo.com/bpk-tv/Quicktake/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg Television HD
+#EXTINF:-1 tvg-id="Bloomberg.Television.(HD).sg" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg Television HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3990d086ffa1431897ec0df4b62b7a9c:f132946dc762434007bcf0abe4df9064
 https://ucdn.starhubgo.com/bpk-tv/BloombergTelevisionHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png",CCM
+#EXTINF:-1 tvg-id="CCM.sg" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png",CCM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bf777a86b244608948e5d4c272ade19:a7c600a766773809cb56dc1791831247
 https://ucdn.starhubgo.com/bpk-tv/CCM/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png",CCTV-4
+#EXTINF:-1 tvg-id="CCTV-4.(HD).sg" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png",CCTV-4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=80f9916eda094579a6f1efa06d4db70c:bee68b19d59a1f5d8e44ef26e2e838c5
 https://ucdn.starhubgo.com/bpk-tv/CCTV4/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png",CGTN
+#EXTINF:-1 tvg-id="CGTN.sg" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png",CGTN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14d5c64d3c8f464ea33d4ddee66ee13c:e515502bedb70262ea62e87d48e24f9c
 https://ucdn.starhubgo.com/bpk-tv/CGTN/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/707_1920x1080_HTV.png",CNBC HD
+#EXTINF:-1 tvg-id="CNBC.Asia.sg" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/707_1920x1080_HTV.png",CNBC HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8411ae48e2d940089011964dd57a4a39:b20405dd1280c2c999d2e630a1f54187
 https://ucdn.starhubgo.com/bpk-tv/CNBCHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png",CNN HD
+#EXTINF:-1 tvg-id="CNN.International.(HD).sg" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png",CNN HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=88dccf3f4ba540348a9e8d159d448484:5f87122f3582d54f44f7f8915e7f065c
 https://ucdn.starhubgo.com/bpk-tv/CNNHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/128_1920x1080_HTV.png",COLORS
+#EXTINF:-1 tvg-id="Colors.sg" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/128_1920x1080_HTV.png",COLORS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c85f99a0dfc43ec97f31d1887d0bf15:7746516d0361659ca71d8a8457764f9e
 https://ucdn.starhubgo.com/bpk-tv/COLORS/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/132_1920x1080_HTV.png",COLORS Tamil HD
+#EXTINF:-1 tvg-id="Colors.Tamil.HD.sg" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/132_1920x1080_HTV.png",COLORS Tamil HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48fe2c0e229848eca6c540290d29be8d:449b22a83e46cf2f337bf71f5b2c3bd3
 https://ucdn.starhubgo.com/bpk-tv/COLORSTamilHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/827_1920x1080_HTV.png",CTI TV HD
+#EXTINF:-1 tvg-id="CTI.Asia.(HD).sg" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/827_1920x1080_HTV.png",CTI TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d6c6ac1bf1d496aada3738e307a97cc:ea46dc47f8c0c977e47e85bfd255a433
 https://ucdn.starhubgo.com/bpk-tv/CTITVHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="儿童" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.Network.(HD).sg" group-title="儿童" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4648ad8290a410a85781044307672ae:78bcd2f197a761ea3a885d13971d6aa9
 https://ucdn.starhubgo.com/bpk-tv/CartoonNetwork/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="儿童" tvg-logo="https://poster.starhubgo.com/Linear_channels2/317_1920x1080_HTV.png",Cartoonito HD
+#EXTINF:-1 tvg-id="Cartoonito.(HD).sg" group-title="儿童" tvg-logo="https://poster.starhubgo.com/Linear_channels2/317_1920x1080_HTV.png",Cartoonito HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3ebd4b085804891988897c19ec04d9f:7fb1cd86d4fcf86942e0b0cab62c82db
 https://ucdn.starhubgo.com/bpk-tv/BoomerangHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="儿童" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png",Cbeebies HD
+#EXTINF:-1 tvg-id="CBeebies.(HD).sg" group-title="儿童" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png",Cbeebies HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c44621930bf54bf0b771b610646e9005:8cafe783be0062021523cb35be913858
 https://ucdn.starhubgo.com/bpk-tv/CbeebiesHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",Celestial Movies HD
+#EXTINF:-1 tvg-id="Celestial.Movies.(HD).sg" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",Celestial Movies HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3144abd890c9482b924a8f64f71f5da9:01c27f7e51ff7f4a396ee9d951011077
 https://ucdn.starhubgo.com/bpk-tv/CelestialMoviesHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 HD
+#EXTINF:-1 tvg-id="Ch.5.(HD).sg" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b152e2ae339c477aa4821eafb9c83c8c:e862ceb5df4fb9efcb013999e200b5bb
 https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CH5_DASH/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 HD
+#EXTINF:-1 tvg-id="Ch.8.(HD).sg" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab098604d411c9685dfd4c8ba5d96:5a6710bd5212d46a48083ffcb871cd20
 https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CH8_DASH/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="新闻"tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia HD
+#EXTINF:-1 tvg-id="CNA.(HD).sg" group-title="新闻"tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7cd1bb6763c04f26970ebce1a2adbb69:b535f8e6892e06e28525b23563529409
 https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CNA_DASH/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U HD
+#EXTINF:-1 tvg-id="Ch.U.(HD).sg" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b1f19f60c754e7da1973ccf8aefd255:d00c242fc75db48a900bbdd4ca428688
 https://ucdn.starhubgo.com/bpk-tv/Mediacorp_CHU_DASH/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/145_1920x1080_HTV.png",Cinema One Global
+#EXTINF:-1 tvg-id="Cinema.One.Global.sg" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/145_1920x1080_HTV.png",Cinema One Global
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6953b6ee83a94ee6bf9bd3f9a0b41785:58568b1209a5c44b596af7ebd49029a4
 https://ucdn.starhubgo.com/bpk-tv/CinemaOne/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",Cinemax HD
+#EXTINF:-1 tvg-id="CINEMAX.(HD).sg" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",Cinemax HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -239,7 +239,7 @@ https://ucdn.starhubgo.com/bpk-tv/CinemaxHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=1fa97b3bd1e64a4aa5eb9b42a7da036e:6d6f02aada98526dbf8191f70b0bff6b
 https://ucdn.starhubgo.com/bpk-tv/CitraEntertainment/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",Crime + Investigation HD
+#EXTINF:-1 tvg-id="Crime.+.Investigation™.(HD).sg" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",Crime + Investigation HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -253,28 +253,28 @@ https://ucdn.starhubgo.com/bpk-tv/CrimeplusInvestigationHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ab3236dbe1be474983feeaddc16be232:1a9c9159b431050742eabe21e37d12af
 https://ucdn.starhubgo.com/bpk-tv/DW/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/422_1920x1080_HTV.png",Discovery HD
+#EXTINF:-1 tvg-id="Discovery.Channel.(HD).sg" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/422_1920x1080_HTV.png",Discovery HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58e01c2c642b407197ee4773d19c1b02:fea2e9072ca6f49f297e5123d75cf490
 https://ucdn.starhubgo.com/bpk-tv/DiscoveryCh/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png",Dragon TV
+#EXTINF:-1 tvg-id="Dragon.TV.Intl.sg" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png",Dragon TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc39dc63f3e84bceb6c5a59b058a5349:d0b825d0aeb64f1d4e4dba32ef2d907c
 https://ucdn.starhubgo.com/bpk-tv/DragonTV/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="儿童" tvg-logo="https://poster.starhubgo.com/Linear_channels2/307_1920x1080_HTV.png",DreamWorks Channel HD
+#EXTINF:-1 tvg-id="DreamWorks.(HD).sg" group-title="儿童" tvg-logo="https://poster.starhubgo.com/Linear_channels2/307_1920x1080_HTV.png",DreamWorks Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=59cd13f9432a4b17b3cfb141bb018a4f:01fe6416e1149413db3e7a655a6a445c
 https://ucdn.starhubgo.com/bpk-tv/DreamworksHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/820_1920x1080_HTV.png",ETTV ASIA HD
+#EXTINF:-1 tvg-id="ETTV.Asia.(HD).sg" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/820_1920x1080_HTV.png",ETTV ASIA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -316,21 +316,21 @@ https://ucdn.starhubgo.com/bpk-tv/FNCHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=1c5e648fc2a64499a9f5c112dc66a9c2:5fba156eab1ed43bbe1ca86018145e9d
 https://ucdn.starhubgo.com/bpk-tv/France24/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png",HBO Family HD
+#EXTINF:-1 tvg-id="HBO.Family.(HD).sg" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png",HBO Family HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d012c1b7ebe4232b9c9868b8d4af1e7:44bf6fb3a4e044ec4469d6f5588b09f6
 https://ucdn.starhubgo.com/bpk-tv/HBOFamilyHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO HD
+#EXTINF:-1 tvg-id="HBO.HD.sg" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eec131c3a0af46359a1734acfa9b0e50:fbd97ce2ca444ba3090bd2968809511c
 https://ucdn.starhubgo.com/bpk-tv/HBOHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits HD
+#EXTINF:-1 tvg-id="HBO.Hits.(HD).sg" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -344,7 +344,7 @@ https://ucdn.starhubgo.com/bpk-tv/HBOHitsHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=7dd4f16f5fd647d79589d923060df12d:e29e7f9e4bd59c0515dd0ad1e83b18a7
 https://ucdn.starhubgo.com/bpk-tv/HBOSignatureHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/437_1920x1080_HTV.png",HGTV HD
+#EXTINF:-1 tvg-id="HBO.Signature.(HD).sg" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/437_1920x1080_HTV.png",HGTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
