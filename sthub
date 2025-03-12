@@ -13,7 +13,7 @@ https://ucdn.starhubgo.com/bpk-tv/ABCAustralia/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=3cba7be6fc9a4164aaccadd573b8616a:5931b2b6d4bb346bb54dceb451dc887f
 https://ucdn.starhubgo.com/bpk-tv/ADITHYATV/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",ANC
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png",ANC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -41,28 +41,28 @@ https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f21120153ab14180af9e3cc521ef3e0c:20cbfbe7200a7c173499247833a35d4b
 https://ucdn.starhubgo.com/bpk-tv/ArirangTV/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",Asianet
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png",Asianet
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=32233523503442728319f13e66eabe1d:9176ac4e76ce299db6e5d86dd7efac88
 https://ucdn.starhubgo.com/bpk-tv/Asianet/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",Asianet Movies
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png",Asianet Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=edd61b87c5444c63a5f503e6f7cf3de3:e72283be311aa6c5175be86862d96eb3
 https://ucdn.starhubgo.com/bpk-tv/AsianetMov/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",Astro Sensasi HD
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",Astro Sensasi HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
 https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",Astro Warna HD
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",Astro Warna HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -139,14 +139,14 @@ https://ucdn.starhubgo.com/bpk-tv/CNBCHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=88dccf3f4ba540348a9e8d159d448484:5f87122f3582d54f44f7f8915e7f065c
 https://ucdn.starhubgo.com/bpk-tv/CNNHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",COLORS
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/128_1920x1080_HTV.png",COLORS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c85f99a0dfc43ec97f31d1887d0bf15:7746516d0361659ca71d8a8457764f9e
 https://ucdn.starhubgo.com/bpk-tv/COLORS/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",COLORS Tamil HD
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/132_1920x1080_HTV.png",COLORS Tamil HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -230,7 +230,7 @@ https://ucdn.starhubgo.com/bpk-tv/CinemaOne/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d4c9462406784dc1ae136960ce519d9f:088f3518471c22767c0cf0e4372bccac
 https://ucdn.starhubgo.com/bpk-tv/CinemaxHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",Citra Entertainment
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/115_1920x1080_HTV.png",Citra Entertainment
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -244,7 +244,7 @@ https://ucdn.starhubgo.com/bpk-tv/CitraEntertainment/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=2cc82e4d16944e3680ecd7f798ad934a:efd9b267c84effe30cf80dd8e9f9d499
 https://ucdn.starhubgo.com/bpk-tv/CrimeplusInvestigationHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",DW English HD
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png",DW English HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -440,12 +440,19 @@ https://ucdn.starhubgo.com/bpk-tv/HubVVDramaHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ebda46a0c57e4328bb81200709446b41:48f03c03ac2f800aea4b8b1a437bb083
 https://ucdn.starhubgo.com/bpk-tv/KBSWorldHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",KTV HD
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png",KTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c42ff2d89b0343eb8209aa01ec993d88:1475d4140f207ae15bfd8e6b83d02a35
 https://ucdn.starhubgo.com/bpk-tv/KTVHD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/116_1920x1080_HTV.png",Karisma
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5f3a6256209f40028a2954d02f3de31d:15e506cc2530e5e7c0a71d5561dc4d02
+https://ucdn.starhubgo.com/bpk-tv/Karisma/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="娱乐" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png",Lifetime HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -538,14 +545,14 @@ https://ucdn.starhubgo.com/bpk-tv/Sensasi/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
 https://ucdn.starhubgo.com/bpk-tv/SmithsonianChannel/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",Sun Music
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/134_1920x1080_HTV.png",Sun Music
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed89bf895a514836bc3235042b1cba80:804a3b2bbc0e9b3ba4db96889349e81b
 https://ucdn.starhubgo.com/bpk-tv/SunMusic/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",Sun TV HD
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png",Sun TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -574,21 +581,21 @@ https://ucdn.starhubgo.com/bpk-tv/SEAToday/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=6347d18bc19a475194eb5651208254f7:8b85be95bf378e6fa552f5eca1f05d8b
 https://ucdn.starhubgo.com/bpk-tv/Mediacorp_Suria_DASH/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族", sony max
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/131_1920x1080_HTV.png", sony max
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9d97a893d1c42a3ab865f0ea5f85d87:fe1f21eda73955bf58f01cf5449cb289
 https://ucdn.starhubgo.com/bpk-tv/SonyMAX/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族", Sony Entertainment Television
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/131_1920x1080_HTV.png", Sony Entertainment Television
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11638fd3d4294a00a06a96752386c974:1631bf2a7e1c01aa9be0777798cbacbc
 https://ucdn.starhubgo.com/bpk-tv/SonyEntertainmentTelevision/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",TV5MONDE HD
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/152_1920x1080_HTV.png",TV5MONDE HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -651,28 +658,28 @@ https://ucdn.starhubgo.com/bpk-tv/VijayTV/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=e2a1e56e9f1e4f1d8fc4b129a4c6162c:a7e50888cdc875f51f23607c3c9a012e
 https://ucdn.starhubgo.com/bpk-tv/WarnerTVHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",Zee Tamil HD
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/138_1920x1080_HTV.png",Zee Tamil HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47dde0640e614122a874b78be75ea286:e33fdb7f39f5322f14b82f4abdb192e2
 https://ucdn.starhubgo.com/bpk-tv/ZeeTamil/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",Zee TV HD
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png",Zee TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=daa2d5016af54ce5933c9034d5c21ddf:4cb6857673fb8f3adb6c620d134b8607
 https://ucdn.starhubgo.com/bpk-tv/ZeeTV/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",Zee Thirai
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png",Zee Thirai
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c584a57a5edc44e1b9e58047019a6c95:14c86305c458b457a91affeffec3bcff
 https://ucdn.starhubgo.com/bpk-tv/ZeeThirai/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="国际民族",Zee Cinema
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/130_1920x1080_HTV.png",Zee Cinema
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
