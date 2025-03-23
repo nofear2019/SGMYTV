@@ -398,7 +398,7 @@ https://ucdn.starhubgo.com/bpk-tv/HubSports1HDnew1/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
-42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
+https://ucdn.starhubgo.com/bpk-tv/HubSports2HD/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png",Hub Sports 3 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -421,12 +421,27 @@ https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
 https://ucdn.starhubgo.com/bpk-tv/HubSports5HD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png",Hub Sports 5 HD
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png",Hub Sports 6 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584
 https://ucdn.starhubgo.com/bpk-tv/HubSports6/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png",Hub Sports 7 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16f39f24603a4b9ea70fa22d91f55d29:bab7601e930f1d08ccfa005548dbbace
+https://ucdn.starhubgo.com/bpk-tv/HubSports7/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png",Hub Sports 8 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=760126fc9c2640f8b32e647c0f43fa09:f139ce2dd6ebe611388fa8e175e99baf
+https://ucdn.starhubgo.com/bpk-tv/HubSports8/output/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png",Hub VV Drama HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -698,6 +713,13 @@ https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd
 https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png",Hub Premier 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
+https://ucdn.starhubgo.com/bpk-tv/HubPremier12/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png",Hub Premier 2 4K
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
