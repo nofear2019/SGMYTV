@@ -101,14 +101,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 #EXTINF:-1 tvg-id="411.astro"  tvg-name="HBO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png"  group-title="ASTRO CN SUB",HBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
-
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
+https://get.perfecttv.net/astro_1080.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&channel=hbo
 
 #EXTINF:-1 tvg-id="415.astro"  tvg-name="HBO Hits" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png"  group-title="ASTRO CN SUB",HBO Hits HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
-
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
+https://get.perfecttv.net/astro_1080.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&channel=hbohits
 
 #EXTINF:-1 tvg-id="414.astro" tvg-name="HBO Family" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png"  group-title="ASTRO CN SUB",HBO Family HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -119,8 +117,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 #EXTINF:-1 tvg-id="412.astro"  tvg-name="CINEMAX" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png"  group-title="ASTRO CN SUB",CINEMAX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
-
-https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
+https://get.perfecttv.net/astro_1080.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&channel=cinemax
 
 #EXTINF:-1 tvg-id="401.astro"  tvg-name="HITS Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Logo_10000499.png"  group-title="ASTRO CN SUB",Hits Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -131,8 +128,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 #EXTINF:-1 tvg-id="413.astro"  tvg-name="Showcase" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png"  group-title="ASTRO CN SUB",Astro Showcase 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
-
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
+https://get.perfecttv.net/astro_1080.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&channel=showcase
 
 #EXTINF:-1 tvg-id="404.astro" tvg-name="Boo" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-title="ASTRO CN SUB",Astro Boo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -162,8 +158,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 #EXTINF:-1 tvg-id="70.astro1"  tvg-name="AXN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png"  group-title="ASTRO CN SUB",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
-
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+https://get.perfecttv.net/astro_1080.mpd?username=vip_xmmeq4rh&password=eg5qSZn3&channel=axn
 
 #EXTINF:-1 tvg-id="706.astro" tvg-name="HITS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png"  group-title="ASTRO CN SUB",HITS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
