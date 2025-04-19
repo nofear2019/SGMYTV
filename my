@@ -9,44 +9,44 @@
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d66e2fe5f045426195d432802f9ba807:6fe283a6f1f3a3fb69f82c4340e0dde2
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aecfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQwNjU3MjEsImlzcyI6IlZSIiwiZXhwIjoxNzQ0MTUxNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.cmNR8ZgatrNPYtzGe_I_2U57GvccAgIxzSonqVjUPc4
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aecfhd|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDUwNTAxMDgsImlzcyI6IlZSIiwiZXhwIjoxNzQ1MTAxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjczYzhkOWEtOGMxYy00ZDVhLWJkYjctMWFjMDYxNWViZGM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjQwMCJ9.Bii-ft4OlmBQGA2Jt9bKJkQYC3ytsXLT9-_5oKEq5tI
 
 #EXTINF:-1 tvg-id="308.astro" ch-number="308" group-title="ASTRO CN SUB" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2024.png",Astro 全佳
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest.type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5e95e7e52194b8f8e254a75ef1904dc:40f8e7cc17810c91dfa22a52e72af7e8
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=qjfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQwNjU3MjEsImlzcyI6IlZSIiwiZXhwIjoxNzQ0MTUxNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.cmNR8ZgatrNPYtzGe_I_2U57GvccAgIxzSonqVjUPc4
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=qjfhd|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDUwNTAxMDgsImlzcyI6IlZSIiwiZXhwIjoxNzQ1MTAxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjczYzhkOWEtOGMxYy00ZDVhLWJkYjctMWFjMDYxNWViZGM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjUwNyJ9.y0ljy5wlaDEcjX9tbb-LPYKgh_pdmtB1AM4y0xbV0pE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
 #EXTINF:-1 tvg-id="333.astro" tvg-name="Astro Hua Hee Dai"  group-title="ASTRO CN SUB" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png",Astro 欢喜台
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
+https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=huaheedai
 
 #EXTINF:-1 tvg-id="300.astro" tvg-name="iQIYI" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png"  group-title="ASTRO CN SUB" ,IQIYI HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
+https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=iqiyi
 
 #EXTINF:-1 tvg-id="310.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Jade_v3.png"  group-title="ASTRO CN SUB",TVB Jade
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y54aEi7RxkRffT/SFiNY8Q","kid":"/hIZAZqfNs3vNHCI5ZLKEA"}],"type":"temporary"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
+https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbjade
 
 #EXTINF:-1 tvg-id="319.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_XingHe_v1.png" etak.png"  group-title="ASTRO CN SUB",TVB Xing He 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
+https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbxinghe
 
 #EXTINF:-1 tvg-id="305.astro" tvg-name="TVB Classic" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Classic_2022.png"  group-title="ASTRO CN SUB", TVB Classic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
+https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbclassic
 
 #EXTINF:-1 tvg-id="317.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png" etak.png" group-title="ASTRO CN SUB",TVB Entertainment 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r3EKBv1nl1uZ20pHp1e4Sw", "kid":"+mKcNkDOUzx1VQn2f3XmEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_primary.mpd
+https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbent
 
 #EXTINF:-1 tvg-id="335.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png"etak.png" group-title="ASTRO CN SUB",CCTV4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
