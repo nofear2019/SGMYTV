@@ -118,19 +118,19 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 
 #EXTINF:-1 tvg-id="415.astro"  tvg-name="HBO Hits" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png"  group-title="ASTRO CN SUB",HBO Hits HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 
 #EXTINF:-1 tvg-id="414.astro" tvg-name="HBO Family" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png"  group-title="ASTRO CN SUB",HBO Family HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 
 #EXTINF:-1 tvg-id="412.astro"  tvg-name="CINEMAX" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png"  group-title="ASTRO CN SUB",CINEMAX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -180,7 +180,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
 #EXTINF:-1 tvg-id="706.astro" tvg-name="HITS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png"  group-title="ASTRO CN SUB",HITS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
