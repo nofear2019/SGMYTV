@@ -2,12 +2,21 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" refresh="1440" max-conn="1" refresh="24"
 
 
-#EXTINF:-1 tvg-id="311.astro" tvg-name="Astro AOD" group-title="ASTRO CN SUB" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAOD_2024.png",Astro AOD
+
 
 #EXTINF:-1 tvg-id="306.astro" ch-number="306" group-title="ASTRO CN SUB" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAEC_2024.png",Astro AEC
 
-#EXTINF:-1 tvg-id="308.astro" ch-number="308" group-title="ASTRO CN SUB" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2024.png",Astro 全佳
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=286aef4e8d85db66e05fe4a5c799e410:176e2938bce795d1c85559a2440477f7
+#EXTINF:-1 tvg-id="311.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAOD_2024.png" group-title="Astro",14. AOD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 
+#EXTINF:-1 tvg-id="308.astro" ch-number="308" group-title="ASTRO CN SUB" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2024.png",Astro 全佳
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
