@@ -264,7 +264,7 @@ https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=5c7890082be941669ddfb1096b41ee10:e29c76bd9d4be6433ea3a30af82d7de6
 https://ucdn.starhubgo.com/bpk-tv/HITSHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="娱乐" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png",Lifetime HD
+#EXTINF:-1 tvg-id="" group-title="娱乐" tvg-logo="https://poster.starhubgo.com/Linear_channels2/514_1920x1080_HTV.png",Lifetime HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
