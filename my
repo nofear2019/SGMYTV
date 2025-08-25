@@ -190,19 +190,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
-https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hits
 
 #EXTINF:-1 ch-number="702.astro" tvg-id="HITSNow" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HITSNOW.png"  group-title="ASTRO CN SUB",HITS Now
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pNSb2ozSm6KIjHMrTn2dYw", "kid":"Qwfe9qKb7AgvjJPx+Y5ZEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
-
-#EXTINF:-1 tvg-id="712.astro" tvg-name="Warner TV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png"  group-title="ASTRO CN SUB",Warner TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
 #EXTINF:-1 tvg-id="703.astro" tvg-name="Lifetime" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png"  group-title="ASTRO CN SUB",Lifetime HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -220,20 +214,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
-http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=afn
 
 #EXTINF:-1 tvg-id="717.astro" tvg-name="BBC Lifestyle" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png"  group-title="ASTRO CN SUB",BBC Lifestyle HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
-
-
-#EXTINF:-1 tvg-id="708.astro" tvg-name="Food NTWk HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png"  group-title="ASTRO CN SUB",Food Network HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
 
 #EXTINF:-1 tvg-id="715.astro" tvg-name="HGTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png"  group-title="ASTRO CN SUB",HGTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -257,13 +244,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
-
-#EXTINF:-1 tvg-id="556.astro" tvg-name="Animal Planet" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png"   group-title="ASTRO CN SUB",Animal Planet HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5199f1513a0286e038dae8f7d820010:4d4d4d9dc41be43f528a4940cf66f14c
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
+https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=crimeinvestigation
 
 #EXTINF:-1 tvg-id="554.astro" tvg-name=" Earth" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Earth.png"  group-title="ASTRO CN SUB",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -283,12 +264,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
-#EXTINF:-1 tvg-id="716.astro" tvg-name="DMAX" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png"  group-title="ASTRO CN SUB",DMAX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
-
 #EXTINF:-1g-id="550.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/LoveNature_HD.png"  group-title="ASTRO CN SUB",Love Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -305,7 +280,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_primary.mpd
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=globaltrekker
 
 
 ====================astrogo news================
@@ -314,7 +289,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5075/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_primary.mpd
 
 #EXTINF:-1 tvg-id="513.astro" tvg-name="Al Jazeera English" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png"  group-title="ASTRO NEWS",Al Jazeera English HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; haramTV Build/2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
